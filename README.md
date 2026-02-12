@@ -257,9 +257,10 @@ mexc_splash/
 
 ##### 🐙 GitHub: @ylevelu
 
-#### Made with ❤️ for the crypto trading community
-
 #### Splash 3% - https://t.me/LBSplash_3p
 #### Splash 7% - https://t.me/LBSplash_7p
 #### Splash 14% - https://t.me/LBSplash_14p
 #### Splash 30% - https://t.me/LBSplash_30p
+
+
+# Made with ❤️ for the crypto trading community
